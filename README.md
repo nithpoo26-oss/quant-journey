@@ -6,8 +6,8 @@ To create, test, and prove a fully rules-based trading strategy that can consist
 
 ### Phase 1: Foundation
 - Market: NIFTY / BTC / NASDAQ (choose one)
-- Timeframe: [your chosen one, e.g., 15m or 1D]
-- Strategy Type: [e.g., momentum, mean-reversion, breakout]
+- Timeframe: 5M
+- Strategy Type: FVGs, FCR.
 - Current Goal: Backtest 10 parameter variations and publish performance metrics.
 
 ### Progress Log
